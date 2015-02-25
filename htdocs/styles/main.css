@@ -1,0 +1,349 @@
+/*
+ * main.css
+ *
+ * NOTE: Now using em-length for font-size rather than absolute-size keywords
+ *       for better cross-browser compatibility.  The old keywords used in IE6
+ *       remain as comments.
+ */
+
+/* Miscellaneous elements */
+
+body
+{
+	background: white;
+	color: black;
+	font-family: "Trebuchet MS", Verdana, Arial, sans-serif;
+	margin: 0px;
+}
+
+
+/* header */
+
+#header
+{
+	background-color: #A68563;
+	border-bottom: 1px solid black;
+	margin: 0px;
+	padding: 10px;
+}
+
+#header h1
+{
+	font-size: 2em;  /* x-large */
+	font-weight: bold;
+	margin: 0px;
+}
+
+#header p
+{
+	font-size: 0.8em;  /* x-small */
+	margin: 0px;
+}
+
+
+/* footer */
+
+#footer
+{
+	background-color: #A68563;
+	border-top: 1px solid black;
+	margin: 0px;
+	padding: 10px;
+}
+
+#footer #copyright
+{
+	float: left;
+}
+
+#footer #sociallinks
+{
+	text-align: right;
+}
+
+#footer #sociallinks img
+{
+	border-style: none;
+}
+
+#footer p
+{
+	font-size: 0.8em;  /* x-small */
+	margin: 0px;
+}
+
+
+/* sidebar */
+
+#sidebar
+{
+	background-color: #F2E0CE;
+	border-right: 1px solid black;
+	vertical-align: top;
+	width: 180px;
+}
+
+#sidebar .section
+{
+	border-top: 1px solid #A68563;
+	margin: 0px;
+	padding: 5px 10px 5px 10px;
+}
+
+#sidebar h1
+{
+	font-size: 1.12em;  /* medium */
+	font-weight: bold;
+	margin: 0px;
+}
+
+#sidebar p
+{
+	font-size: 0.8em;  /* x-small */
+	margin: 0px;
+	padding-left: 10px;
+}
+
+#sidebar a:link, #sidebar a:visited
+{
+	color: black;
+	text-decoration: none;
+}
+
+#sidebar a:hover
+{
+	color: #A68563;
+	text-decoration: underline;
+}
+
+
+/* content */
+
+#content
+{
+	padding: 10px;
+	vertical-align: top;
+}
+
+#content h1
+{
+	font-size: 1.5em;  /* large */
+	font-weight: bold;
+	margin: 0px;
+}
+
+#content p ul
+{
+	font-size: 1em;  /* small */
+	margin: 10px 0px 0px 0px;
+}
+
+#content table
+{
+	border: 1px solid black;
+	font-size: smaller;
+	margin-left: 2em;
+}
+
+#content table td,th
+{
+	border: 1px solid black;
+}
+
+#content table td div
+{
+	margin-top: 0.5em;
+}
+
+#content a:link, #content a:visited
+{
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#content a:hover
+{
+	color: #A68563;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#content .separator
+{
+	border-top: 1px dashed #A68563;
+	margin: 15px 0px 15px 0px;
+}
+
+#content .caption
+{
+	font-size: 0.8em;  /* x-small */
+	font-style: italic;
+	margin: 0;
+}
+
+#content .linkItems
+{
+	border-top: 1px solid #A68563;
+	margin: 10px 0px 20px 0px;
+}
+
+#content .linkItems .title
+{
+	background-color: #A68563;
+	border: 2px solid #A68563;
+	float: right;
+	font-size: 0.8em;  /* x-small */
+	padding: 0px 5px 0px 5px;
+}
+
+#content .linkItems h2
+{
+	font-size: 1em;  /* small */
+	margin-bottom: 0.5em;
+}
+
+#content .linkItems p
+{
+	font-size: smaller;
+	margin-bottom: 0.5em;
+	margin-left: 2em;
+	margin-top: 0;
+}
+
+#content .linkItems ul
+{
+	font-size: 0.8em;  /* x-small */
+	margin-bottom: 0.5em;
+	margin-top: 0;
+}
+
+#content .contactItems h2
+{
+	font-size: 1em;  /* small */
+	margin-bottom: 0.5em;
+}
+
+#content .contactItems h3
+{
+	font-size: smaller;
+	font-weight: bold;
+	margin-bottom: 0.5em;
+	margin-left: 2em;
+}
+
+#content .contactItems p
+{
+	font-size: smaller;
+	margin-bottom: 0.5em;
+	margin-left: 2em;
+	margin-top: 0;
+}
+
+#content .documentItems
+{
+	border-top: 1px solid #A68563;
+	margin: 10px 0px 20px 0px;
+}
+
+#content .documentItems .title
+{
+	background-color: #A68563;
+	border: 2px solid #A68563;
+	float: right;
+	font-size: 0.8em;  /* x-small */
+	padding: 0px 5px 0px 5px;
+}
+
+#content .documentItems h2
+{
+	font-size: 1em;  /* small */
+	margin-bottom: 0.5em;
+}
+
+#content .documentItems p
+{
+	font-size: smaller;
+	margin-bottom: 0.5em;
+	margin-left: 2em;
+	margin-top: 0;
+}
+
+#content .legalItems
+{
+	border-top: 1px solid #A68563;
+	margin: 10px 0px 20px 0px;
+}
+
+#content .legalItems .title
+{
+	background-color: #A68563;
+	border: 2px solid #A68563;
+	float: right;
+	font-size: 0.8em;  /* x-small */
+	padding: 0px 5px 0px 5px;
+}
+
+#content .legalItems h2
+{
+	font-size: 1em;  /* small */
+	margin-bottom: 0.5em;
+}
+
+#content .legalItems p
+{
+	font-size: smaller;
+	margin-bottom: 0.5em;
+	margin-left: 2em;
+	margin-top: 0;
+}
+
+#content .legalItems p.normal
+{
+	font-size: 1em;  /* small */
+	margin: 10px 0 0.5em 0;
+}
+
+#content .legalItems ol
+{
+	font-size: 0.8em;  /* x-small */
+	margin-bottom: 0.5em;
+	margin-top: 0;
+	padding-left: 1em;
+}
+
+#content #homeImage
+{
+	float: right;
+	margin-bottom: 30px;
+	margin-left: 30px;
+}
+
+#content #disclaimer
+{
+	background: #F2E0CE;
+	border: 1px solid black;
+	font-style: italic;
+	font-weight: bold;
+	margin-bottom: 3em;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3em;
+	padding: 1em;
+	text-align: center;
+	width: 30em;
+}
+
+#content #notice
+{
+	background: #F2E0CE;
+	border: 1px solid black;
+	font-style: italic;
+	font-weight: bold;
+	margin-bottom: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1em;
+	padding: 1em;
+	text-align: center;
+}

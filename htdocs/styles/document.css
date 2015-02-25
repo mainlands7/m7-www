@@ -1,0 +1,130 @@
+/*
+ * document.css
+ *
+ * NOTE: Now using em-length for font-size rather than absolute-size keywords
+ *       for better cross-browser compatibility.  The old keywords used in IE6
+ *       remain as comments.
+ */
+
+/* Miscellaneous elements */
+
+body
+{
+	background: white;
+	color: black;
+	font-family: "Trebuchet MS", Verdana, Arial, sans-serif;
+	font-size: 1em;  /* small */
+}
+
+h1
+{
+	margin-bottom: 0.5em;
+	margin-top: 1em;
+}
+
+p
+{
+	margin-bottom: 0.5em;
+	margin-top: 0;
+	text-indent: 3em;
+}
+
+ol
+{
+	margin-bottom: 0.5em;
+	margin-top: 0;
+}
+
+li p
+{
+	margin-bottom: 0;
+	margin-top: 0.5em;
+	text-indent: 0;
+}
+
+li ol
+{
+	margin-bottom: 0;
+	margin-top: 0.5em;
+}
+
+
+/* title */
+
+.title h1
+{
+	font-size: 2em;  /* x-large */
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.title h2
+{
+	font-size: 1em;  /* small */
+	font-weight: normal;
+	text-align: center;
+}
+
+
+/* preamble */
+
+.preamble h1
+{
+	font-size: 1.5em;  /* large */
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+
+/* article */
+
+.article h1
+{
+	font-size: 1.5em;  /* large */
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+
+/* section */
+
+.section
+{
+	margin-left: 3em;
+}
+
+.section h1
+{
+	font-size: 1.12em;  /* medium */
+	font-weight: bold;
+}
+
+
+/* paragraph */
+
+.paragraph
+{
+	margin-left: 3em;
+}
+
+.paragraph h1
+{
+	font-size: 1.12em;  /* medium */
+	font-weight: normal;
+}
+
+
+/* signature */
+
+.signature
+{
+	margin-top: 3em;
+	text-align: right;
+}
+
+.signature p
+{
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
