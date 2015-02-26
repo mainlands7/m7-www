@@ -1,0 +1,1 @@
+The contents of packet 8 are identical to packet 4.
