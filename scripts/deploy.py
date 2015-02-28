@@ -43,7 +43,7 @@ class Main:
     def _create_archive_from_directory(self, directory_path_relative_to_destination_path):
         directory_path = os.path.join(self._destination_path, directory_path_relative_to_destination_path)
         zip_file_path = directory_path + '.zip'
-        with zipfile.ZipFile(zip_file_path, mode='w', compression=zipfile.ZIP_DEFLATED) as zip_file:
+        with zipfile.ZipFile(zip_file_path, 'w', zipfile.ZIP_DEFLATED) as zip_file:
             Main._add_directory_to_zip_file(zip_file, directory_path)
         shutil.rmtree(directory_path)
 
