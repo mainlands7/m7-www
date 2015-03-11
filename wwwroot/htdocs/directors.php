@@ -20,7 +20,10 @@
 		&#x39;&#x35;&#x34;-&#x37;&#x33;&#x33;-&#x35;&#x34;&#x30;&#x30;
 	</p>
 
-	<h2>(vacant), Secretary</h2>
+	<h2>Andrew Caksackkar, Secretary</h2>
+	<p>
+		4711 Northwest 58 Street
+	</p>
 
 	<h2>(vacant), Assistant Secretary</h2>
 
@@ -47,10 +50,7 @@
 		5609 Northwest 49 Avenue
 	</p>
 
-	<h2>Andrew Caksackkar, Director - Security and Code Compliance</h2>
-	<p>
-		4711 Northwest 58 Street
-	</p>
+	<h2>(vacant), Director - Security and Code Compliance</h2>
 
 	<h2>Marjorie Charles, Director - Social Board</h2>
 	<p>
