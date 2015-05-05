@@ -51,8 +51,8 @@
 		Search and access filed information for corporations, limited liability companies, limited partnerships, general partnerships, trade marks, fictitious name registrations, and liens.
 	</p>
 	<ul>
-		<li><a onclick="javascript: window.open(this.href); return false;" href="http://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail/EntityName/domnp-720616-2e5d2c79-e874-4235-819e-e75c295bba9f/mainlands%20seven/Page1">Mainlands Seven Maintenance Corporation, Inc.</a></li>
-		<li><a onclick="javascript: window.open(this.href); return false;" href="http://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail/EntityName/domp-p08000011005-2ea45ded-bf27-4ff6-bb96-d5025484da0d/meredith's%20management/Page1">Meredith's Management Co. Inc.</a></li>
+		<li><a onclick="javascript: window.open(this.href); return false;" href="http://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&amp;directionType=Initial&amp;searchNameOrder=MAINLANDSSEVENMAINTENANCE%207206160&amp;aggregateId=domnp-720616-2e5d2c79-e874-4235-819e-e75c295bba9f&amp;searchTerm=mainlands%20seven&amp;listNameOrder=MAINLANDSSEVENMAINTENANCE%207206160">Mainlands Seven Maintenance Corporation, Inc.</a></li>
+		<li><a onclick="javascript: window.open(this.href); return false;" href="http://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&amp;directionType=Initial&amp;searchNameOrder=MEREDITHSMANAGEMENT%20P080000110050&amp;aggregateId=domp-p08000011005-2ea45ded-bf27-4ff6-bb96-d5025484da0d&amp;searchTerm=meredith%27s%20management%20company&amp;listNameOrder=MEREDITHSMANAGEMENT%20P080000110050">Meredith's Management Co. Inc.</a></li>
 	</ul>
 
 	<h2><a onclick="javascript: window.open(this.href); return false;" href="http://flsenate.gov/Laws/Statutes">Florida Statutes, Constitution, and Laws</a></h2>
