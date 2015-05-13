@@ -50,7 +50,10 @@
 		5609 Northwest 49 Avenue
 	</p>
 
-	<h2>(vacant), Director - Security and Code Compliance</h2>
+	<h2>David Eichholtz, Director - Security and Code Compliance</h2>
+	<p>
+		5707 Northwest 48 Way
+	</p>
 
 	<h2>Marjorie Charles, Director - Social Board</h2>
 	<p>
