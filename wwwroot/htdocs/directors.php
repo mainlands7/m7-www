@@ -45,9 +45,9 @@
 		5609 Northwest 48 Way
 	</p>
 
-	<h2>Patricia Hodgkinson, Director - Lawns and Sprinklers</h2>
+	<h2>Pedro Hernandez, Director - Lawns and Sprinklers</h2>
 	<p>
-		5609 Northwest 49 Avenue
+		4908 Northwest 56 Court
 	</p>
 
 	<h2>David Eichholtz, Director - Security and Code Compliance</h2>
@@ -59,11 +59,6 @@
 	<p>
 		4917 Northwest 57 Street<br />
 		&#x39;&#x35;&#x34;-&#x37;&#x33;&#x35;-&#x37;&#x30;&#x32;&#x35;
-	</p>
-
-	<h2>Pedro Hernandez, Director</h2>
-	<p>
-		4908 Northwest 56 Court
 	</p>
 </div>
 
