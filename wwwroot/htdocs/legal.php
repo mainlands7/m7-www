@@ -22,7 +22,7 @@
 		All materials, information, products and services included on Mainlands7.org are provided "AS IS", with no warranties whatsoever. Mainlands7.org expressly disclaims to the fullest extent permitted by law all express, implied, and statutory warranties. Mainlands7.org disclaims any warranties for services or goods received through or advertised on Mainlands7.org.
 	</p>
 	<p>
-		All logos and images are property of their respectful owner. All content on Mainlands7.org is copyright 2007-2014 Mainlands7.org.
+		All logos and images are property of their respectful owner. All content on Mainlands7.org is copyright 2007-2015 Mainlands7.org.
 	</p>
 </div>
 <div class="legalItems">
